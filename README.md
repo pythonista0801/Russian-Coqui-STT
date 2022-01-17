@@ -1,6 +1,6 @@
 # Russian-Coqui-STT
 
-Guidelines for training Russian Coqui STT model
+## Guidelines for training Russian Coqui STT model
 
 There used to be two most popular STT workhorses, Coqui STT and DeepSpeech. However, the developers have been told to abandon the DeepSpeech model and they focused all their efforts entirely on Coqui. The code for manually installing and training the Coqui STT model is provided below. The complete instructions are available at Coqui STT website. Prerequisites for the installation must be the following: 
 - Python 3.6, 3.7 or 3.8, 
@@ -93,3 +93,5 @@ python -m coqui_stt_training.train \
 ```
 
 8. Deployment…
+
+## Good luck!
